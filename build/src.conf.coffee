@@ -41,6 +41,10 @@ module.exports =
 		'resource-agenda/ResourceAgendaView.coffee'
 		'resource-agenda/config.coffee'
 
+		'resource-evsAgenda/ResourceEVSTimeGrid.coffee'
+        'resource-evsAgenda/ResourceEVSAgendaView.coffee'
+        'resource-evsAgenda/config.coffee'
+
 		'resource-basic/ResourceBasicView.coffee'
 		'resource-basic/ResourceMonthView.coffee'
 		'resource-basic/config.coffee'
